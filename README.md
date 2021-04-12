@@ -20,4 +20,4 @@ De maneira geral, o React possui uma única função:
 
 > O principal trabalho do React é traduzir o estado de sua aplicação em nós do DOM
 
-E como podemos definir o "estado" de nossas aplicações? Isto é visto no próximo item [Tipos de Estado](./01/state-types)
+E como podemos definir o "estado" de nossas aplicações? Isto é visto no próximo item [Tipos de Estado](01/state-types.md)
