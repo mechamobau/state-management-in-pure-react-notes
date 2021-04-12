@@ -16,3 +16,9 @@ O curso é apresentado pelo Steve Kinney, _Principal Front Engineer_ da [Twilio]
 - Armazenar estado no Local Storage.
 - Armazenar estado em URLs através de query parameters.
 - Buscar dados de um servidor e armazenar em um estado.
+
+De maneira geral, o React possui uma única função:
+
+> O principal trabalho do React é traduzir o estado de sua aplicação em nós do DOM
+
+E como podemos definir o "estado" de nossas aplicações? Isto é visto no próximo item [Tipos de Estado](./01/state-types)
