@@ -2,8 +2,7 @@
 
 Este repositório contém notas pessoais do curso [State Management in Pure React v2](https://frontendmasters.com/courses/pure-react-state/).
 
-Slides apresentados: 1 - 7
-[React State](https://speakerdeck.com/stevekinney/react-state?slide=3)
+[Slides apresentados: 1 - 8](https://speakerdeck.com/stevekinney/react-state?slide=1)
 
 O curso é apresentado pelo Steve Kinney, _Principal Front Engineer_ da [Twilio](https://twilio.com). Ele tem o foco de apresentar uma visão de gerenciamento de estado no ponto de vista de uma arquitetura Frontend pura utilizando React, sendo ela não mais uma aplicação "de brinquedo" (_toy application_ como ele chama). Os tópicos apresentados no decorrer do curso tem como foco os seguintes itens:
 

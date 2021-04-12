@@ -1,5 +1,7 @@
 ## Tipos de estado
 
+[Slides apresentados: 9 - 12](https://speakerdeck.com/stevekinney/react-state?slide=1)
+
 Existem diversos tipos de estado, é importante saber cada um dos tipos de estado que existem para saber decidir qual abordagem é melhor e qual não é para determinado tipo de estado encontrado.
 
 - **Modelo de dados (_Model data_)**: Os "nomes" dentro da aplicação>
